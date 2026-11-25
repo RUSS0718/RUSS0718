@@ -29,13 +29,14 @@ I explore how AI agents can reason, search, verify, and revise their decisions m
       <p>A causality-inspired research prototype for multi-agent mathematical reasoning, with explicit dependencies, independent verification, and adaptive search.</p>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
       <img alt="Research prototype" src="https://img.shields.io/badge/Research-6652A3?style=flat-square" />
+      <p><sub>Companion repository: <a href="https://github.com/RUSS0718/RiCL-experiemnt">RiCL Experiments</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RUSS0718/RiCL-experiemnt">RiCL Experiments</a></h3>
-      <p><strong>Empirical Studies in Agent Reasoning</strong></p>
-      <p>Companion experimental repository for RiCL, including motivation studies on agent reasoning.</p>
+      <h3><a href="https://github.com/ArcheCausal/CausalAgent">CausalAgent</a></h3>
+      <p><strong>AI Agent for Causal Analysis</strong></p>
+      <p>A LangGraph-powered causal analysis workspace integrating causal discovery, MCP tools, RAG, interactive causal graphs, and structured reports.</p>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
-      <img alt="Experiments" src="https://img.shields.io/badge/Experiments-304368?style=flat-square" />
+      <img alt="Causal Inference" src="https://img.shields.io/badge/Causal%20Inference-304368?style=flat-square" />
     </td>
   </tr>
 </table>
