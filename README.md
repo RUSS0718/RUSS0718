@@ -10,7 +10,7 @@
 
 ## Research Interests
 
-I explore how AI agents can reason, search, verify, and revise their decisions more effectively, with a particular interest in mathematical reasoning and causality.
+Exploring the intersection of AI and causality, from agent-driven causal analysis to causality-inspired mathematical reasoning.
 
 <p align="center">
   <img alt="LLM Agents" src="https://img.shields.io/badge/LLM%20Agents-213657?style=for-the-badge&amp;logoColor=white" />
